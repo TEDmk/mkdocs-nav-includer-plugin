@@ -1,0 +1,14 @@
+site_name: Nav+ example
+
+theme:
+  name: material
+
+plugins:
+  - navincluder
+
+nav:
+  - Index: index.md
+  - Hello:
+    - index: index.md
+  - Services:
+    - "HelloWorld": "@include included/nav.yml"

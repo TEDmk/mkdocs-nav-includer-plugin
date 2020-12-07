@@ -1,0 +1,4 @@
+- index: index.md
+- "Foo":
+  - Bar 1: foo/bar1.md
+  - Bar 2: foo/bar2.md
