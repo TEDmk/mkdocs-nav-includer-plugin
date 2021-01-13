@@ -12,7 +12,7 @@ setuptools.setup(
     description='Plugin for improving nav in Mkdocs.',
     long_description="""""",  # noqa: E501
     keywords='mkdocs nav includer',
-    url='https://github.com/TEDmn/mkdocs-nav-includer-plugin',
+    url='https://github.com/TEDmk/mkdocs-nav-includer-plugin',
     author='Teddy "TEDmk" Turquet',
     author_email='teddy.turquet@protonmail.com',
     license='MIT',
